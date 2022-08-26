@@ -1,0 +1,6 @@
+.novedadesPage{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    padding-top: 6rem;
+}

@@ -1,0 +1,36 @@
+.containerAsistencia {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    padding-top: 4rem;
+}
+
+.formularioAsistencia {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 1rem;
+    margin: 1rem;
+    border: 0.2rem solid rgba(241, 241, 236, 0.92);
+    border-radius: 1rem;
+
+}
+
+.tituloasistencia {
+    padding-top: 1rem;
+}
+
+.botonEnvio {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+
+.tituloFormulario {
+   text-align: center;
+    text-transform: uppercase;
+    text-underline: grey;
+
+}

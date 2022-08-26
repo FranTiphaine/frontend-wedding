@@ -1,0 +1,12 @@
+.Navegator {
+    font-family: 'Cormorant Garamond', sans-serif;
+    font-size: 1.3rem;
+    background-color: rgba(241, 241, 236, 0.92);
+    webkit-box-shadow: 0 5px 10px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 10%);
+    margin-bottom: 1rem;
+    line-height: 2.5rem;
+    z-index: 10;
+}
+
+

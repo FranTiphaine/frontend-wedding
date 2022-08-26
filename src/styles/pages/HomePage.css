@@ -1,0 +1,41 @@
+.contenedorPrincipalHome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5rem;
+}
+
+.homeImage {
+    image-resolution: inherit;
+}
+
+.Bienvenidos{
+    padding-bottom: 1rem;
+}
+
+.contenedorHome1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contenedorHome2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+
+}
+.contenedorImagenes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 80vw;
+    padding-bottom: 1rem;
+
+}
+.tarjeta{
+    width: 80vw;
+}

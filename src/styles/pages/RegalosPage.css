@@ -1,0 +1,18 @@
+.regalos{
+    display: inline-block;
+    padding-top: 5rem;
+    width: 90vw;
+}
+
+.regalosTitulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.card {
+    padding: 0.2rem;
+    border-radius: 1rem;
+    border: 0.2rem solid rgba(241, 241, 236, 0.92);
+}
+
