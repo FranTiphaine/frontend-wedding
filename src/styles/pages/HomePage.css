@@ -39,3 +39,7 @@
 .tarjeta{
     width: 80vw;
 }
+.carousel {
+    position: center;
+    max-width: 640px;
+}
